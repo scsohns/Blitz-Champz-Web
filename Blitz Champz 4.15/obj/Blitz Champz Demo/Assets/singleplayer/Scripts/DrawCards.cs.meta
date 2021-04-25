@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3bda265ef4712fc4bbfb09b4c17ce5dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Red: {fileID: 6749082463434760418, guid: 53bd610adf57972468534508c8b946a4, type: 3}
+  - Yellow: {fileID: 4916720212932288781, guid: df26691481565194cad4e51dd6f153fb,
+      type: 3}
+  - Green: {fileID: 1558498334654394456, guid: 5b70ec7b53cd4c840882c5e21ddc6635, type: 3}
+  - PlayerArea: {fileID: 6334574097687510273, guid: 3cb6d753bcffc9543a99872e8266e604,
+      type: 3}
+  - EnemyArea: {fileID: 4388377962983267792, guid: 6dfcb2309ffac7549bdde103fbcb1405,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
